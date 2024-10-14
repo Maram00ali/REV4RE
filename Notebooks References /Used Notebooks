@@ -1,5 +1,6 @@
 The experiments that were conducted utilized the following notebooks for implementation:
-https://github.com/javedsha/text-classification/blob/master/Text%2BClassification%2Busing%2Bpython%2C%2Bscikit%2Band%2Bnltk.ipynb
+
+#https://github.com/javedsha/text-classification/blob/master/Text%2BClassification%2Busing%2Bpython%2C%2Bscikit%2Band%2Bnltk.ipynb
 https://sanjayasubedi.com.np/machinelearning/nlp/text-classification-with-sklearn/
 https://github.com/coding-maniacs/text_classification/blob/master/src/main.py
 https://github.com/coding-maniacs/text_classification
@@ -18,6 +19,5 @@ https://colab.research.google.com/drive/1__SwXUGOsmvrJ7hLh3ycT60azVqedu0V#scroll
 https://colab.research.google.com/drive/15xXaqJareTdhW3Z3EYQZ1AAvDWwwTjVm#scrollTo=ogcIff6ryYq2
 https://practicaldatascience.co.uk/data-science/how-to-use-nltk-for-pos-tagging-in-pandas
 https://www.kaggle.com/code/nulldata/few-shot-text-classification-with-setfit
-
 https://colab.research.google.com/drive/1B_5ow3rvS0Qz1y-KyJtlMNnmgmx9w3kJ?usp=sharing
 https://colab.research.google.com/drive/1Xrm0gNaa41YwlM5g2CRYYXcRvpbDnTRT?usp=sharing![image](https://github.com/user-attachments/assets/0e7ee708-197e-4363-ab50-f43d3807aa61)
